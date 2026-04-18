@@ -1,5 +1,3 @@
-<%@ page language="java" %>
-
 <html>
 <head>
 <title>WorkSeva</title>
@@ -9,11 +7,9 @@
 
 <h1>Welcome to WorkSeva</h1>
 
-<a href="login.jsp">
-<button style="padding:10px 20px;font-size:18px">
-Register Worker
-</button>
-</a>
+<a href="login.jsp">Admin Login</a><br><br>
+
+<a href="worker_register.jsp">Worker Register</a>
 
 </body>
 </html>
