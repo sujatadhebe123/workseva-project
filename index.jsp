@@ -9,7 +9,7 @@
 
 <h1>Welcome to WorkSeva</h1>
 
-<a href="worker_register.jsp">
+<a href="login.jsp">
 <button style="padding:10px 20px;font-size:18px">
 Register Worker
 </button>
